@@ -1,0 +1,41 @@
+{
+    "swip-images":[
+        {
+            "id": 0,
+            "index": "arrachera",
+            "ammount": 1,
+            "width": "15%",
+            "src": "dependencias/images/arrachera.png"
+        }, {
+            "id": 1,
+            "index": "camaron",
+            "ammount": 6,
+            "width": "2%",
+            "src": "dependencias/images/camaron.png"
+        }, {
+            "id": 2,
+            "index": "atun",
+            "ammount": 1,
+            "width": "12%",
+            "src": "dependencias/images/atun.png"
+        }, {
+            "id": 3,
+            "index": "pollo",
+            "ammount": 1,
+            "width":"12%",
+            "src": "dependencias/images/repoio.png"
+        }, {
+            "id": 4,
+            "index": "nuggets",
+            "ammount":5,
+            "width":"4%",
+            "src": "dependencias/images/nugget.png"
+        }, {
+            "id": 5,
+            "index": "champiñones",
+            "ammount":6,
+            "width":"2%",
+            "src": "dependencias/images/hongo.png"
+        }
+    ]
+}
